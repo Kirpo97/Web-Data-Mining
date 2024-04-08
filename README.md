@@ -1,2 +1,2 @@
 # Web-Data-Mining
-laboratory works
+laboratory and plactical works
